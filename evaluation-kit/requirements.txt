@@ -1,0 +1,7 @@
+transformers
+datasets
+numpy
+scipy
+tqdm
+pyyaml
+openai

@@ -1,0 +1,20 @@
+approach: beam_search
+
+base_url: "http://localhost:30000"
+api_key: "EMPTY"
+max_threads: 4
+model_path: null
+
+verifier_type: "model"
+prm_path: "RLHFlow/Llama3.1-8B-PRM-Deepseek-Data"
+
+dataset_path: data/math500.jsonl
+dataset_size: null
+
+n_samples: 2
+beam_width: 2
+
+temperature: 0.6
+max_tokens: 2048
+
+system_prompt: null
