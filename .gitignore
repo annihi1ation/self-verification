@@ -1,6 +1,5 @@
 .ossutil_checkpoint/
 ossutil_output/
-models/
 **/*.pt
 **/checkpoints
 **/wget-log
